@@ -11,7 +11,7 @@ The data is sourced form survey conducted by the organisation, and contains abou
 10 unique features with 14999 employee information innately. The dataset contains features such as satisfaction level, evaluation scores, projects, average monthly working hours per employee, tenure, promotion, department and salary.
 The chart below shows number od employees left/stayed with the their respective salary. 
 
-![Alt text](<Sheet 1.png>)
+![Alt text](<![Employee Attrition](Images/employee-attrition-bar.png)>)
 
 ## Modeling & Evaluaction
 A random forest model comprising 400 decision trees was used to determine feature importance in who would tip generously or not. The overall model performed with 95% accuracy and 89% precision. 
